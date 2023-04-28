@@ -71,7 +71,7 @@
              </a>
              <a href="https://expressjs.com/">
     <img
-      src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"
+      src="https://res.cloudinary.com/dy4mossqz/image/upload/v1682689198/img/img.icons8_hn4y7d.png"
       alt="logo ExpressJS"
       width="40"
       height="40"
@@ -105,3 +105,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" alt="logo Linkedin"  width="40" height="40" >
      </a>
 </div>
+</br>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=C-AlonsoRamos&theme=sunset-gradient&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+
+![C-AlonsoRamos GitHub stats](https://github-readme-stats.vercel.app/api?username=C-AlonsoRamos&show_icons=true&theme=merko)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
