@@ -5,9 +5,8 @@
   />
   <h1 align="center">Hola 👋, Soy CRISTIAN ALONSO</h1>
   <h3 align="center">
-    Desarrollador web curioso, siempre buscando aprender y mejorar mis
-    habilidades para  crecer profesionalmente, también me gusta trabajar en equipo y colaborar en proyectos
-    para lograr los mejores resultados.
+    Soy una persona curiosa, siempre buscando aprender y mejorar mis habilidades, también me gusta trabajar en equipo y colaborar en proyectos para lograr los mejores          resultados y crecer profesionalmente.
+    Mi objetivo es seguir creciendo como desarrollador web y aprender de los profesionales más experimentados.
   </h3>
 </div>
 
